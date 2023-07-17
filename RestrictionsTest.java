@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @Category(UnitTest.class)
 class RestrictionsTest extends WiseUnitDxCoreTestBase {
-
+    //edited
     private final OurValidationRule validator = new OurValidationRule();
 
     private final ProcessingStage processingStage = ProcessingStage.ORDER_ACTIVATION;
